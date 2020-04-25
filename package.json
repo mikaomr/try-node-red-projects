@@ -1,0 +1,12 @@
+{
+    "name": "test_20200425",
+    "description": "早稲田授業の検証用プロジェクト",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
